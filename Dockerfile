@@ -1,5 +1,5 @@
 # mzum/docker-websocket
-FROM ubuntu:16.04
+FROM ubuntu:18.04
 
 ARG TAG
 LABEL TAG=${TAG}
